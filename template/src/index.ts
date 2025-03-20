@@ -4,8 +4,8 @@ import { R2Explorer } from "r2-explorer";
 export default R2Explorer({ 
   readonly: false, 
   basicAuth: {
-    username: "user@terradx.ai",
-    password: "password@terradx.ai",
+    username: 'user@terradx.ai',
+    password: 'password@terradx.ai'
   },
 });
 
